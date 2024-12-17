@@ -1,6 +1,5 @@
 # ET_MoralesSandoval_006D
-Instalar esto en las 2 apps:
-npm install @ionic/angular@latest
+Instalar esto en las 2 apps: npm install @ionic/angular@latest
 
 npm install swiper@latest
 
@@ -12,5 +11,8 @@ npm install @capacitor/camera
 
 npx cap sync
 
-Json
-https://github.com/Pipeyqpasa/Experiencia3_Json
+url de github asociado a deploy de JSON:
+Json https://github.com/Pipeyqpasa/Experiencia3_Json
+
+url de deploy de JSON (url donde se despliega):
+https://experiencia3-json-8.onrender.com
