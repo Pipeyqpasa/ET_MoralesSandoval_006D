@@ -11,5 +11,9 @@ npm install @capacitor/camera
 
 npx cap sync
 
+url de github asociado a deploy de JSON:
 Json https://github.com/Pipeyqpasa/Experiencia3_Json
+
+url de deploy de JSON (url donde se despliega):
+https://experiencia3-json-8.onrender.com
 
